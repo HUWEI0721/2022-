@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# 2022 同济大学 高级语言程序设计 小作业+大作业
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+小题目没思路可以来看看，但是千万别`Ctrl`+`C` `Ctrl`+`V`
+渣哥查重想必大家也见识到了 他真的会挂人的(狗头保命
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+祝大家好运
